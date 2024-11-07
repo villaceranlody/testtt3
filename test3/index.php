@@ -12,7 +12,7 @@
 </body>
 	<div>
 		<label>Firstname:</label>
-		<input type="text" name="Firstname" class="form-control">
+		<input type="text" name="firstname" class="form-control">
 	</div>
 
 	<div>
@@ -23,6 +23,21 @@
     <div>
 		<label>Lastname:</label>
 		<input type="text" name="lastname" class="form-control">
+	</div>
+
+	<div>
+		<label>Age:</label>
+		<input type="text" name="age" class="form-control">
+	</div>
+
+	<div>
+		<label>Address:</label>
+		<input type="text" name="address" class="form-control">
+	</div>
+
+	<div>
+		<label>Name&Course:</label>
+		<input type="text" name="namecourse" class="form-control">
 	</div>
 </html>
 
